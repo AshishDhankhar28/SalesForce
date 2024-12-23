@@ -674,6 +674,7 @@ nav{
     color: white;
     background-color: #032e61;
     font-size: 14px;
+    flex-wrap: wrap;
 }
 
 .flexxx p{
@@ -688,11 +689,7 @@ nav{
     margin-left: 5px;
 }
 
-@media (max-width:903px) {
-    .flexxx{
-        flex-wrap: wrap;
-    }
-}
+
 
 
 
